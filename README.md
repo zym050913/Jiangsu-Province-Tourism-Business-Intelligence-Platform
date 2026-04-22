@@ -1,6 +1,5 @@
 # Jiangsu Province Tourism Business Intelligence Platform
 ## 1. Problem & User
-## Problem & User
 - This project addresses the lack of an integrated interactive platform that combines macro-level tourism statistics with scenic spot data in Jiangsu Province.
 - It is designed for policy analysts studying tourism development in Jiangsu and for travelers seeking data-driven destination insights.
 ## 2.Data
@@ -29,6 +28,7 @@ Main fields used:
 - domestic_tourist_arrivals
 - inbound_tourist_arrivals
 - tourism_revenue
+
 ## 3. Methods
 The technical workflow includes four main stages:
 

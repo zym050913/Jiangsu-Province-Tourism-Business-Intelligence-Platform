@@ -1,0 +1,2 @@
+# Jiangsu-Province-Tourism-Business-Intelligence-Platform
+The Jiangsu Tourism BI Platform features four core functions: 1. Annual visitor &amp; consumption trends; 2. Overseas market structures; 3. City-level data tracking; 4. A navigator for 500+ attractions. It helps users analyze Jiangsu’s tourism development and serves as a practical tool for geographic discovery and data-driven travel planning.

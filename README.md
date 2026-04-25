@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run main_app.py
 ```
-6. Open the local URL shown in the terminal (usually http://localhost:8501).
+6. Open the local URL shown in the terminal 
 
 ## 6. Demo video link
 

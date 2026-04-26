@@ -59,6 +59,7 @@ streamlit run main_app.py
 6. Open the local URL shown in the terminal 
 
 ## 6. Demo video link
+https://video.xjtlu.edu.cn/Mediasite/Play/36d81a0abe9440d4b8e7129c2d3fd3661d
 
 ## 7. Limitations & next steps
 Currently, the platform focuses exclusively on Jiangsu Province and relies on static datasets. The next step is to expand the system to a national scale, covering all provinces in China, and to integrate real-time API data alongside predictive AI models to forecast upcoming travel peaks.
